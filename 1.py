@@ -24,3 +24,4 @@ else:
             print("pal'to")
     else:
         print("puhovik")
+input("\n нажми на кнопку и получишь смс (ENTER)")
